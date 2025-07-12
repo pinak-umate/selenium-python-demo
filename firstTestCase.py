@@ -18,4 +18,4 @@ if act_title == exp_title:
 else:
     print("Test Failed")
 
-driver.close() 
+driver.close()
